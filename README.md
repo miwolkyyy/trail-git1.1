@@ -22,6 +22,8 @@ berpindah ke repo lain
 cabang bebas dari sebuah commit
 --merge
 penggabungan branch
+^--merge conflict
+>>baris yang sama yang diubah oleh 2b ranch yang berbeda 
 --remote
 sumber yang memiliki repo
 --clone
